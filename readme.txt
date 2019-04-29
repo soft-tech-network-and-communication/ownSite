@@ -1,5 +1,4 @@
-Thanks for downloading this theme!
-
+*****_______*****
 Theme Name: Test1
 Author: Vadakkan
 Author URL: snc.ae
